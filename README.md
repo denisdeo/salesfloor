@@ -11,7 +11,7 @@
 <h2> Test cases to be implemented are: </h2>
 
 <ol>
-  <li> As a customer, I can access Storefront [Shop with Sally Sellers - El Guntors]https://elguntors-stg.salesfloor.net/lol56eff3d6ed8b9 </li>
+  <li> As a customer, I can access Storefront [Shop with Sally Sellers - El Guntors](https://elguntors-stg.salesfloor.net/lol56eff3d6ed8b9/) </li>
 
   a. As a customer, I see the “LIVE CHAT” status as “Unavailable” 
   
