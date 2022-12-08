@@ -43,6 +43,8 @@
  ![Alternate image text](https://github.com/denisdeo/salesfloor/blob/main/appointmenttype.png)
 
 - "Set Date" and "Time" boxes are out of alignment.  
+
+- Choose a day one week from now and time as 10 AM according to test requirements
   
 - "Live Chat", "Phone," and "In-Store" buttons should be all clickable 
 
