@@ -28,6 +28,20 @@
    d. Enter data for all fields (name, email, phone, comments, checkbox)
    
    e. Click on “SEND REQUEST”
+  
+  
+  <h2> Notes </h2>
+  
+  |  Code    |    Description  |
+  |------|------|
+  | sallysellers_title_spec.js    | Verify if the title od the page is correct     |
+  | sallysellers_livechat_spec.js | Verify if the text "Unavailable" is displaying |
+  |                               | Verify if the color of the text is red         |
+  | sallysellers_appointreq_spec.js | I got stuck on Xpath and the code is NOT done.  I am going to describe how I would test this  manualy.  Please check the link below: |
+  |                                 |                                                                                                                 |
+ 
+  
    
    <h2> References
+     
       -Install webdriverio https://webdriver.io/docs/gettingstarted/
