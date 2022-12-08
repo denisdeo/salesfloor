@@ -71,6 +71,9 @@
 - The page's usability should be checked on all device types.
 
 - Do the same tests above for Phone and In-Store buttons
+
+
+ ![Alternate image text](https://github.com/denisdeo/salesfloor/blob/main/MainScreenshot.png)
    
   <h2> References
      
