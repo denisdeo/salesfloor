@@ -40,6 +40,7 @@
   | sallysellers_appointreq_spec.js | I got stuck on Xpath and the code is NOT done.  I am going to describe how I would test this  manualy.  Please check the link below: |
   |                                 |                                                                                                                 |
  
+ ![Alternate image text](https://someurl/imagelocation/image.png)
   
    
    <h2> References
