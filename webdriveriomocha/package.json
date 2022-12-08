@@ -1,0 +1,22 @@
+{
+  "name": "webdriveriomocha",
+  "version": "1.0.0",
+  "description": "Webdriverio Javascript Mocha Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx wdio run ./wdio.conf.js",
+    "wdio": "wdio run ./wdio.conf.js"
+  },
+  "author": "Denis De O",
+  "license": "ISC",
+  "dependencies": {
+    "@wdio/cli": "^8.0.8"
+  },
+  "devDependencies": {
+    "@wdio/local-runner": "^8.0.8",
+    "@wdio/mocha-framework": "^8.0.8",
+    "@wdio/spec-reporter": "^8.0.8",
+    "chromedriver": "^108.0.0",
+    "wdio-chromedriver-service": "^8.0.1"
+  }
+}
