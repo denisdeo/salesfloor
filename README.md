@@ -74,6 +74,33 @@
 
 
  ![Alternate image text](https://github.com/denisdeo/salesfloor/blob/main/MainScreenshot.png)
+  
+ 
+-  Verify if all the links are working 
+-  Resize the page to ensure the context and layout still function
+-  Testing the page on different devices 
+-  Ensure the device configuration is not breaking the page
+-  Ensure the page is not missing any text
+-  Testing on different browsers
+-  Testing email notification
+-  Testing the buying process using different credit cards and any other bank institutional
+-  Testing on different devices with the most recent OS
+-  Testing should be done on Mac and Android devices.
+-  Stress testing 
+-  Load testing
+-  Functional testing
+-  Exploratory testing
+-  Regression testing
+-  Database testing
+-  Performance testing
+-  Security testing
+-  SSL testing
+-  Cache testing on different browsers
+-  Integration testing
+-  Real customer data testing
+-  Usability testing
+-  Accessibility testing
+-  API testing
    
   <h2> References
      
