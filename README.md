@@ -34,10 +34,10 @@
   
   |  Code    |    Description  |
   |------|------|
-  | sallysellers_title_spec.js    | Verify if the title od the page is correct     |
-  | sallysellers_livechat_spec.js | Verify if the text "Unavailable" is displaying |
+  | /salesfloor/webdriveriomocha/test/specs/sallysellers_title_spec.js    | Verify if the title od the page is correct     |
+  | /salesfloor/webdriveriomocha/test/specs/sallysellers_livechat_spec.js | Verify if the text "Unavailable" is displaying |
   |                               | Verify if the color of the text is red         |
-  | sallysellers_appointreq_spec.js | I got stuck on Xpath and the code is NOT done.  I am going to describe below how I would test this manualy.   |
+  | /salesfloor/webdriveriomocha/test/specs/sallysellers_appointreq_spec.js | I got stuck on Xpath and the code is NOT done.  I am going to describe below how I would test this manualy.   |
   |                                 |                                                                                                                 |
  
  ![Alternate image text](https://github.com/denisdeo/salesfloor/blob/main/appointmenttype.png)
