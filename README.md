@@ -37,11 +37,25 @@
   | sallysellers_title_spec.js    | Verify if the title od the page is correct     |
   | sallysellers_livechat_spec.js | Verify if the text "Unavailable" is displaying |
   |                               | Verify if the color of the text is red         |
-  | sallysellers_appointreq_spec.js | I got stuck on Xpath and the code is NOT done.  I am going to describe how I would test this  manualy.  Please check the link below: |
+  | sallysellers_appointreq_spec.js | I got stuck on Xpath and the code is NOT done.  I am going to describe below how I would test this manualy.   |
   |                                 |                                                                                                                 |
  
  ![Alternate image text](https://github.com/denisdeo/salesfloor/blob/main/appointmenttype.png)
-  
+
+1) "Set Date" and "Time" boxes are out of alignment.
+2) "Live Chat", "Phone," and "In-Store" buttons should be all clickable 
+3) Click on the "Live Chat" button and ensure the user can set a date and time properly back and forward 
+4)Validate the name field to accept only characters and spaces between the name. The name field should not get numbers or special characters 
+5) Validate the email field to accept only emails format
+6)Validate if the "Sign me up" box can be checked and unchecked
+7) Validate the phone field to accept only phone numbers
+8) The can I help field should be as limited to the number of characters
+9) Once all the fields are entered correctly, the "Send Request" button should be enabled. Otherwise, it is a bug.
+10) Ensure "Required" text appears according to the appointment type selected 
+11) Ensure the horizontal scroll bar is working correctly.
+12) Resize the page and verify if the layout loses text context and functionality
+13) The page's usability should be checked on all device types.
+14) Do the same tests above for Phone and In-Store buttons
    
    <h2> References
      
