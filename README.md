@@ -1,4 +1,4 @@
-# Salesfloor
+![Alternate image text](https://github.com/denisdeo/salesfloor/blob/main/salesfloor.png)
 # Salesfloor Project Test
 
 <h2> Instructions: </h2>
